@@ -68,6 +68,6 @@ Permite encontrar un elemento específico en la lista. Se solicita al usuario qu
 ## Autores
 
 - [Pablo Tomás Escobar](https://github.com/PabloTomasEscobar-asm)
-- [Fabricio Javier Manzano]
+- Fabricio Javier Manzano
 
 
